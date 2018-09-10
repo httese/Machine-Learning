@@ -1,0 +1,16 @@
+Class	Age	Job	House	Credit
+No	Youth	No	No	Normal
+No	Youth	No	No	Good
+Yes	Youth	Yes	No	Good
+Yes	Youth	Yes	Yes	Normal
+No	Youth	No	No	Normal
+No	Middle	No	No	Normal
+No	Middle	No	No	Good
+Yes	Middle	Yes	Yes	Good
+Yes	Middle	No	Yes	VeryGood
+Yes	Middle	No	Yes	VeryGood
+Yes	Old	No	Yes	VeryGood
+Yes	Old	No	Yes	Good
+Yes	Old	Yes	No	Good
+Yes	Old	Yes	No	VeryGood
+No	Old	No	No	Normal

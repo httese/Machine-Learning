@@ -1,0 +1,15 @@
+PlayGolf	Temperature	Humidity	Windy	Outlook
+No	Scorching	High	F	Sunny
+No	Scorching	High	T	Sunny
+Yes	Scorching	High	F	Overcast
+Yes	Moderate	High	F	Rainy
+Yes	Chill	Normal	F	Rainy
+No	Chill	Normal	T	Rainy
+Yes	Chill	Normal	T	Overcast
+No	Moderate	High	F	Sunny
+Yes	Chill	Normal	F	Sunny
+Yes	Moderate	Normal	F	Rainy
+Yes	Moderate	Normal	T	Sunny
+Yes	Moderate	High	T	Overcast
+Yes	Scorching	Normal	F	Overcast
+No	Moderate	High	T	Rainy
